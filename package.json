@@ -1,0 +1,22 @@
+{
+  "name": "timezonedatepicker",
+  "version": "1.0.0",
+  "description": "A simple and reusable Datepicker component for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drasya/timezone-date-picker.git"
+  },
+  "keywords": [
+    "react-datepicker"
+  ],
+  "author": "HackerOne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drasya/timezone-date-picker/issues"
+  },
+  "homepage": "https://github.com/drasya/timezone-date-picker#readme"
+}
